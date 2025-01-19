@@ -89,7 +89,7 @@ layers:
   - END
   - $$mdi:arrow-up-bold$$
   - HOME
-  - {t: '-', s: _}
+  - {t: \, s: '|'}
   - {t: '=', s: +}
   - {t: '$$mdi:transfer$$', type: trans}
   - '~'
@@ -154,7 +154,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - F11
   - F12
-  - _
+  - '|'
   - +
   - {t: '$$mdi:transfer$$', type: trans}
   - OUT USB
